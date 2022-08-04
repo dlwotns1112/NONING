@@ -21,7 +21,7 @@ function AnalysisList({info}) {
               style={{
                 flexDirection: 'row',
                 borderWidth: 2,
-                borderRadius: 5,
+                borderRadius: 3,
                 height: '110%',
                 justifyContent: 'center',
               }}>
